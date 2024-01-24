@@ -9,7 +9,7 @@ function App() {
         <header className="App-header"></header>
         <img src={logo} alt="dictionary-icon" className="App-logo" />
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="incandescent" />
         </main>
         <footer className="App-footer">
           This AI project was coded by

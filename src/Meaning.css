@@ -1,0 +1,11 @@
+.Meaning h3 {
+  color: #0e9e54;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.Meaning .definition {
+  color: black;
+  margin-top: 15px;
+  margin-bottom: 0px;
+}
